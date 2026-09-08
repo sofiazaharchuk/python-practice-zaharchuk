@@ -9,3 +9,5 @@ Course: Python programming, semester 1
 - practice3 - conditional operators
 - practice4 - loops
 - practice5 - functions
+
+Contact: sofia.zaharchuk12@gmail.com
